@@ -1,5 +1,8 @@
 # AWS-EMR-LABR3-ST0263
 
+## Docusaurus
+**[Documented on Docusaurus](https://egonzalezt.github.io/AWS-EMR-LABR3/docs/intro)**
+
 Setup and explore the AWS EMR Service for BIG Data using Apache BigData Applications
 
 <details>
