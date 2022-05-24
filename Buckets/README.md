@@ -24,3 +24,5 @@ Leave the other options as default
 ![image](https://user-images.githubusercontent.com/53051438/170111103-53361f16-a459-4961-899d-4f9e4d2d88d7.png)
 
 Finally create Bucket 
+
+![image](https://user-images.githubusercontent.com/53051438/170111533-02d65bdc-dbeb-4f9d-8c7b-7565ac3b7c5c.png)
