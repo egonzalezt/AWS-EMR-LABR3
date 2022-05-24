@@ -2,9 +2,14 @@
 
 This is a basic setup to initialice AWS EMR, first go to AWS Console and search EMR 
 
-![image](https://user-images.githubusercontent.com/53051438/170106339-46552b4a-4936-4a0b-9774-3c3ff2cb054a.png)
+## Before Start
+
+EMR requires a keypair to access to Master/Slave for that reason it is required to [Setup KeyPair](https://github.com/egonzalezt/AWS-EMR-LABR3/blob/b9f30aa44a700c3518022f6b2e2eae861ae674e0/KeyPair/README.md)
 
 ## Software and Steps
+
+![image](https://user-images.githubusercontent.com/53051438/170106339-46552b4a-4936-4a0b-9774-3c3ff2cb054a.png)
+
 Then create a new cluster with `EMR-6.3.1` with that version choose these Software
 * Hadoop
 * JupyterHub
@@ -65,16 +70,21 @@ Set a volume of 20gb of storage it is no necesary more store for this activity.
 
 ## Security
 
-If you don't have a keypair please follow the steps to create a new keypair
 ### Create Key Pair
+[Setup KeyPair](https://github.com/egonzalezt/AWS-EMR-LABR3/blob/b9f30aa44a700c3518022f6b2e2eae861ae674e0/KeyPair/README.md)
 
-**Go to EC2 Dashboard**
-![image](https://user-images.githubusercontent.com/53051438/170108982-0ddaeb41-aa3b-4cbf-bbbb-f29b893b34fc.png)
+### Security Options
 
-**Choose KeyPairs**
-![image](https://user-images.githubusercontent.com/53051438/170109024-be04416d-2b81-4c0c-834d-0eee9431833b.png)
-**Create new Keypair**
-![image](https://user-images.githubusercontent.com/53051438/170109112-faf46495-79d8-4832-9f0d-ec94c7235bcf.png)
+On your EMR setup on Security Options choose your KeyPair
 
+![image](https://user-images.githubusercontent.com/53051438/170110183-aa51ff20-715e-4e8b-b5aa-901978e2e369.png)
 
+## End Setup
 
+When everything is done you need to wait about `25 Minutes`
+
+![image](https://user-images.githubusercontent.com/53051438/170110429-ae1b18a8-c234-4dbe-bfae-4c93e142cb6e.png)
+
+Cluster Done 
+
+![image](https://user-images.githubusercontent.com/53051438/170110492-09972227-7e3d-4f45-ba41-104e92d1772e.png)
