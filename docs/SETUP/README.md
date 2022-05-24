@@ -1,6 +1,6 @@
 # AWS EMR SETUP
 
-This is a basic setup to initialice AWS EMR, first go to AWS Console and search EMR 
+This is a basic setup to initialice AWS EMR, first go to AWS Console and search EMR. 
 
 ## Before Start
 
