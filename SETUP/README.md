@@ -88,3 +88,13 @@ When everything is done you need to wait about `25 Minutes`
 Cluster Done 
 
 ![image](https://user-images.githubusercontent.com/53051438/170110492-09972227-7e3d-4f45-ba41-104e92d1772e.png)
+
+## Final Setps
+
+### Setup Security Group
+
+[Security Group Setup](https://github.com/egonzalezt/AWS-EMR-LABR3/blob/92d9a93b37bd41fb3eefdd61504eb5cee0ad6553/SecurityGroups/README.md)
+
+### Create Bucket (AWS S3)
+
+[Bucket Setup](https://github.com/egonzalezt/AWS-EMR-LABR3/blob/9fa40b4feb3a91552d16bb259ccea97c3a1cd5f1/Buckets/README.md)
