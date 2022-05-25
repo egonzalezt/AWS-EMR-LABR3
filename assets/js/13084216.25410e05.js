@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaws_emr_labr_3=self.webpackChunkaws_emr_labr_3||[]).push([[609],{8655:function(a){a.exports=JSON.parse('{"label":"docusaurus","permalink":"/AWS-EMR-LABR3/blog/tags/docusaurus","allTagsPath":"/AWS-EMR-LABR3/blog/tags","count":1}')}}]);
