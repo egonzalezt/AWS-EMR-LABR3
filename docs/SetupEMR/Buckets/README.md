@@ -11,7 +11,7 @@ Choose Create Bucket option
 
 ### Set Name
 
-The name of your bucket must be the same the you set on (EMR S3)[https://github.com/egonzalezt/AWS-EMR-LABR3/tree/b1cb3cc018e523bffa9d7aa45fdd0b36e75026f1/SETUP#edit-software]
+The name of your bucket must be the same the you set on [EMR S3](https://github.com/egonzalezt/AWS-EMR-LABR3/tree/b1cb3cc018e523bffa9d7aa45fdd0b36e75026f1/SETUP#edit-software)
 
 please follow AWS [Bucket naming rules](https://docs.aws.amazon.com/AmazonS3/latest/userguide/bucketnamingrules.html)
 
