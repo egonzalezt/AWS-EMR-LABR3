@@ -22,21 +22,21 @@ Please follow in order to complete the setup
 
 ### EMR Setup
 
-[EMR setup steps](https://github.com/egonzalezt/AWS-EMR-LABR3/blob/2fe597249e5dab37e1867fd297c9214733d4df5e/SETUP/README.md)
+[EMR setup steps](https://github.com/egonzalezt/AWS-EMR-LABR3/blob/36260e1de8641bde71b4edc9f5a2e39b22fc3f80/docs/SetupEMR/SETUP/README.md)
 
 ### Security Group
 
-[Setup steps](https://github.com/egonzalezt/AWS-EMR-LABR3/blob/2fe597249e5dab37e1867fd297c9214733d4df5e/SecurityGroups/README.md)
+[Setup steps](https://github.com/egonzalezt/AWS-EMR-LABR3/blob/36260e1de8641bde71b4edc9f5a2e39b22fc3f80/docs/SetupEMR/SecurityGroups/README.md)
 
 ### KeyPair
 
-[Setup steps](https://github.com/egonzalezt/AWS-EMR-LABR3/blob/2fe597249e5dab37e1867fd297c9214733d4df5e/KeyPair/README.md)
+[Setup steps](https://github.com/egonzalezt/AWS-EMR-LABR3/blob/36260e1de8641bde71b4edc9f5a2e39b22fc3f80/docs/SetupEMR/KeyPair/README.md)
 
 ### Buckets
 
-[Setup steps](https://github.com/egonzalezt/AWS-EMR-LABR3/blob/2fe597249e5dab37e1867fd297c9214733d4df5e/Buckets/README.md)
+[Setup steps](https://github.com/egonzalezt/AWS-EMR-LABR3/blob/36260e1de8641bde71b4edc9f5a2e39b22fc3f80/docs/SetupEMR/Buckets/README.md)
 
 ## Demo
 
-[Demo](https://github.com/egonzalezt/AWS-EMR-LABR3/blob/2fe597249e5dab37e1867fd297c9214733d4df5e/Demo/README.md)
+[Demo](https://github.com/egonzalezt/AWS-EMR-LABR3/blob/36260e1de8641bde71b4edc9f5a2e39b22fc3f80/docs/SetupEMR/Demo/README.md)
 
