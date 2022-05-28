@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaws_emr_labr_3=self.webpackChunkaws_emr_labr_3||[]).push([[7992],{4359:function(a){a.exports=JSON.parse('[{"label":"facebook","permalink":"/AWS-EMR-LABR3/blog/tags/facebook","count":1},{"label":"hello","permalink":"/AWS-EMR-LABR3/blog/tags/hello","count":1},{"label":"docusaurus","permalink":"/AWS-EMR-LABR3/blog/tags/docusaurus","count":1}]')}}]);

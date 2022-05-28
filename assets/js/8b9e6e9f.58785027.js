@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaws_emr_labr_3=self.webpackChunkaws_emr_labr_3||[]).push([[9266],{7452:function(a){a.exports=JSON.parse('{"label":"BigData","permalink":"/AWS-EMR-LABR3/blog/tags/big-data","allTagsPath":"/AWS-EMR-LABR3/blog/tags","count":1}')}}]);

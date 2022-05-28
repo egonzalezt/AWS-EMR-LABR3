@@ -15,9 +15,9 @@
             <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Hadoop HDFS]]></description>
             <content:encoded><![CDATA[<p><img loading="lazy" alt="Hadoop HDFS" src="/AWS-EMR-LABR3/assets/images/Hadoop-390ed0fc10b421406009853c008a1802.png" width="1024" height="265" class="img_E7b_"></p><p>This lab was made for the University Subjet ST0263 following the guidelines below.</p><p>ST0263 SPECIAL TOPICS IN TELEMATICS, 2022-1</p><p>LAB 1: MANAGEMENT OF FILES IN HDFS AND S3 FOR BIG DATA</p><ol><li><p>Maximum delivery date: Saturday May 28 2022</p></li><li><p>Individual work, each student must answer for these activities.</p></li><li><p>Follow the github <a href="https://github.com/ST0263/st0263-2022-1/tree/main/Big%20Data/01-hdfs" target="_blank" rel="noopener noreferrer">guidelines</a></p></li></ol><p>DO THE PROPOSED ACTIVITIES IN:</p><ol start="4"><li>It will document the creation of an EMR cluster (see videos previously sent), it will activate HUE, remember that you must create a 'hadoop' user with the key you like.</li></ol><p>they must also connect via shell (ssh) to the master node of the EMR cluster, where you will perform the HDFS CLI activities</p><p>In this cluster you should do:</p><ul><li><p>Copy (manage) files to HDFS via HUE.</p></li><li><p>Copy (manage) files to HDFS via SSH.</p></li></ul><p>Remember that this HDFS data is ephemeral or temporary and is deleted when the cluster is deleted.</p><ul><li><p>Copy (manage) files to AWS S3 via HUE.</p></li><li><p>Copy (manage) files to AWS S3 via SSH.</p></li></ul><ol start="6"><li>Each student, individually, must complete these labs, in the case of EMR, if someone does not have an account, they can use a common EMR and perform the separation in hdfs directories or AWS S3 buckets.</li></ol><p>Regarding the S3 buckets, they must be public reading (a simple google query: aws s3 public access, will give you the tips to achieve it).</p><p>This lab1 report must be sent by email from Interactiva Virtual, explicitly specifying the URL of the public bucket where the work datasets are.</p>]]></content:encoded>
-            <category>facebook</category>
-            <category>hello</category>
-            <category>docusaurus</category>
+            <category>BigData</category>
+            <category>Intro</category>
+            <category>About</category>
         </item>
     </channel>
 </rss>

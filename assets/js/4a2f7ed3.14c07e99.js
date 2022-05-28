@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaws_emr_labr_3=self.webpackChunkaws_emr_labr_3||[]).push([[6939],{7392:function(a){a.exports=JSON.parse('{"label":"facebook","permalink":"/AWS-EMR-LABR3/blog/tags/facebook","allTagsPath":"/AWS-EMR-LABR3/blog/tags","count":1}')}}]);

@@ -22,8 +22,8 @@
             <name>ST0263</name>
             <uri>https://github.com/ST0263</uri>
         </author>
-        <category label="facebook" term="facebook"/>
-        <category label="hello" term="hello"/>
-        <category label="docusaurus" term="docusaurus"/>
+        <category label="BigData" term="BigData"/>
+        <category label="Intro" term="Intro"/>
+        <category label="About" term="About"/>
     </entry>
 </feed>
